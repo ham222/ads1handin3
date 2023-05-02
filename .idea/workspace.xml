@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f64fcfb-2e0d-4fa6-b826-4daa2d591c65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ads/handins/QueensSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ads/handins/QueensSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ads/handins/QueensSolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests.java" afterDir="false" />
+    </list>
+    <list id="87b666db-9909-4d05-a405-e3b0e263dd25" name="Changes by mateu" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/ads/handins/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ads/handins/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ads/handins/QueensSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ads/handins/QueensSolver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/src/main/java/ads/handins/QueensSolver.java">
+      <ranges>
+        <range start1="2" end1="2" start2="2" end2="4" changelist="87b666db-9909-4d05-a405-e3b0e263dd25" />
+        <range start1="4" end1="8" start2="6" end2="21" changelist="2f64fcfb-2e0d-4fa6-b826-4daa2d591c65" />
+        <range start1="9" end1="9" start2="22" end2="134" changelist="2f64fcfb-2e0d-4fa6-b826-4daa2d591c65" />
+      </ranges>
+    </file>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,6 +54,36 @@
     "codeWithMe.voiceChat.enabledByDefault": "false"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.Tests">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ads.handins.Main" />
+      <module name="handin3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ads.handins.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="handin3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Tests" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
